@@ -1,0 +1,22 @@
+.workshow__section {
+    background-color: var(--secondary-color);
+}
+
+
+.workshow__card__container {
+    margin: 30px auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+
+}
+
+.workshow__subhook {
+    text-align: center;
+    margin: 0;
+}
+
+@media screen and (max-width: 540px) {
+    .workshow__card__container {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

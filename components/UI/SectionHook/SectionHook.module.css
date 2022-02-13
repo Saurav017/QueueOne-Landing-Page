@@ -1,0 +1,35 @@
+.hook__container {
+    width: 100%;
+    margin: 2% auto 0;
+}
+
+.hook__line {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-size: 1.3rem;
+}
+
+@media screen and (min-width: 768px) {
+
+    .hook__container {
+    width: 80%;
+}
+
+    .hook__line {
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .hook__container {
+    width: 60%;
+}
+
+    .hook__line {
+        font-size: 1.8rem;
+        
+    }
+}
+
+

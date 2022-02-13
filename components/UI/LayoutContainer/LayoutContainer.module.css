@@ -1,0 +1,23 @@
+.layouts {
+    padding: 3% 10%;
+}
+
+@media screen and (max-width: 1100px) {
+    .layouts {
+        padding: 3% 8%;
+    }
+}
+    
+@media screen and (max-width: 1000px) {
+    .layouts {
+        padding: 3% 5%;
+    }
+}
+
+
+@media screen and (max-width: 900px) {
+    .layouts {
+        padding: 3% 5%;
+    }
+}
+

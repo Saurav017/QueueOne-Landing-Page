@@ -1,0 +1,29 @@
+.card__container {
+    padding: 20px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.card__icon__div {
+    background-color: var(--primary-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    margin: 10px 0 20px;
+    border-radius: 50%;
+    color: #e8e8e8;
+    font-size: 40px;
+}
+
+
+.card__text {
+    text-align: center;
+    font-size: 0.9rem;
+    margin: 0;
+    padding: 0;
+
+}

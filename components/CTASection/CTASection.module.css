@@ -1,0 +1,25 @@
+.cta__container {
+    width: 100%;
+    margin: 30px auto;
+}
+
+.cta__heading {
+    font-size: 1.8rem;
+    font-weight: 900;
+    text-align: center;
+    margin: 0;
+}
+
+.cta__info {
+    font-size: 1rem;
+    text-align: center;
+    margin: 1.2rem 0;
+}
+
+
+@media (min-width: 768px) {
+    .cta__heading {
+        font-size: 2.5rem;
+    }
+
+}

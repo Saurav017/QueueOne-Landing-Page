@@ -1,0 +1,9 @@
+.video__container {
+    margin: 0 10%;
+}
+
+@media screen and (max-width: 900px) {
+    .video__container {
+        margin: 0 5%;
+    }
+}
