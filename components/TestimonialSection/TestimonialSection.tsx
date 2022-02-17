@@ -56,6 +56,8 @@ const TestimonialSection = () => {
                           width: "350px",
                           margin: "0",
                         }}
+
+                        key={index}
                       >
                         <TestimonialCard
                           key={index}

@@ -1,7 +1,7 @@
 import React from 'react'
 import classes from './HeroSection.module.css'
 import LayoutContainer from '../UI/LayoutContainer/LayoutContainer'
-import HeroImage from './heroimage.svg'
+import HeroImage from './Queueone imsge.svg'
 
 const HeroSection = () => {
     return (
